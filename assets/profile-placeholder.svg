@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 815" role="img" aria-labelledby="title description">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="description">Replace this illustrated placeholder with a professional portrait photo.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#eaf2ff"/>
+      <stop offset="1" stop-color="#cbdcff"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#2b67d9"/>
+      <stop offset="1" stop-color="#183f91"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="815" fill="url(#background)"/>
+  <circle cx="572" cy="126" r="118" fill="#fff" opacity=".42"/>
+  <circle cx="91" cy="664" r="172" fill="#fff" opacity=".35"/>
+  <path d="M75 815c22-161 123-253 275-253s253 92 275 253H75Z" fill="url(#shirt)"/>
+  <path d="m270 550 80 82 80-82 40 44-89 149h-62l-89-149 40-44Z" fill="#fff" opacity=".92"/>
+  <path d="M298 578h104l-27 53 24 184h-98l24-184-27-53Z" fill="#f3f6fd"/>
+  <path d="M273 263c0-94 36-152 105-152s105 58 105 152v109c0 100-43 168-105 168s-105-68-105-168V263Z" fill="#bd805f"/>
+  <path d="M260 294c-29-122 17-205 119-205 79 0 121 51 115 147-25-10-45-32-53-59-41 41-106 59-180 62l-1 55Z" fill="#19243a"/>
+  <path d="M275 307c-21-19-42-10-42 17 0 32 19 52 42 49m206-66c21-19 42-10 42 17 0 32-19 52-42 49" fill="#bd805f"/>
+  <path d="M310 332c11-8 22-8 33 0m66 0c11-8 22-8 33 0" fill="none" stroke="#573c35" stroke-linecap="round" stroke-width="8"/>
+  <path d="M339 420c17 16 35 16 52 0" fill="none" stroke="#74453d" stroke-linecap="round" stroke-width="8"/>
+  <rect x="45" y="709" width="610" height="68" rx="14" fill="#fff" opacity=".94"/>
+  <text x="350" y="751" fill="#38547e" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2" text-anchor="middle">REPLACE WITH YOUR PHOTO</text>
+</svg>
